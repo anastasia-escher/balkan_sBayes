@@ -6,7 +6,7 @@ the Balkans' by Barbara Sonnenhauser, Anastasia Escher, Peter Ranacher (to be su
 
 ### Related paper
 
-[Contact-tracing in cultural evolution: a Bayesian mixture model to detect geographic areas of language contact]](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.1031)
+[Contact-tracing in cultural evolution: a Bayesian mixture model to detect geographic areas of language contact](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.1031)
 
 
 
